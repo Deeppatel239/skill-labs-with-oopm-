@@ -1,4 +1,4 @@
-/*Write a C++ and Java program to create an Employee class with data members: 
+/*Write a C++ program to create an Employee class with data members: 
 Employee number, Employee name, Basic, DA, IT, Net Salary class has 3 methods,
 one method to get employee details for name, ID and basic salary
 other method to calculate net salary using formula
